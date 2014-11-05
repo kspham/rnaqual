@@ -1,0 +1,7 @@
+samtools
+pysam
+psyco_full
+qcmodule
+bx_extras
+bx
+tabix
